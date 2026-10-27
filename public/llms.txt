@@ -1,0 +1,30 @@
+# PlutoResource
+
+> Domain research archive for Pluto. Literature reviews and primary-source analyses. Curated by Corgan Studio, Inc.
+
+Research Archive: https://plutoresource.net/research/ (literature reviews by Corgan Studio, Inc., open to read).
+
+## Research Archive
+
+- [Kuiper Belt classification and dwarf planet criteria](https://plutoresource.net/research/kuiper-dwarf-planet-criteria): Review of the IAU 2006 dwarf-planet definition, the post-Pluto-reclassification debate, the dwarf-planet inventory beyond Neptune (Eris, Makemake, Haumea, Pluto, Sedna), and the candidate population that may eventually qualify as the survey of trans-Neptunian space deepens.
+- [New Horizons Pluto flyby re-analysis and remaining questions](https://plutoresource.net/research/new-horizons-reanalysis): Review of the post-flyby New Horizons Pluto-system science archive, the major findings (Sputnik Planitia convection, atmospheric haze structure, surface compositional layering), and the principal questions still unresolved as the data set is re-analysed with improved methodologies.
+- [Charon-Pluto tidal lock and barycenter mechanics](https://plutoresource.net/research/pluto-charon-tidal-lock): Review of the Pluto-Charon tidal-lock state, the location of the system barycenter outside Pluto's surface, and the implications of this binary configuration for the small-moon orbital architecture.
+- [Pluto small-moon origin and chaotic rotation](https://plutoresource.net/research/pluto-small-moon-rotation): Review of the New Horizons resolution of Pluto's four small moons (Styx, Nix, Kerberos, Hydra), their formation through impact-disruption-and-reaccretion within the Pluto-Charon system, and the chaotic non-resonant spin states observed by HST and confirmed by New Horizons.
+- [Sputnik Planitia's nitrogen-ice convection cells](https://plutoresource.net/research/sputnik-planitia-convection): Review of New Horizons imaging of Sputnik Planitia, the polygonal nitrogen-ice cell pattern, the convection model derived from cell sizes and geological constraints, and what the dynamics imply for Pluto's interior heat budget.
+
+## Related archives
+
+- [TerraResource Research Archive](https://terraresource.net/research/)
+- [MoonResource Research Archive](https://moonresource.com/research/)
+- [MarsResource Research Archive](https://marsresource.net/research/)
+- [SunResource Research Archive](https://sunresource.net/research/)
+- [MercuryResource Research Archive](https://mercuryresource.net/research/)
+- [VenusResource Research Archive](https://venusresource.net/research/)
+- [JupiterResource Research Archive](https://jupiterresource.net/research/)
+- [SaturnResource Research Archive](https://saturnresource.net/research/)
+- [UranusResource Research Archive](https://uranusresource.net/research/)
+- [NeptuneResource Research Archive](https://neptuneresource.net/research/)
+- [GalacticResource Research Archive](https://galacticresource.com/research/)
+- [SolarSystemResource Research Archive](https://solarsystemresource.com/research/)
+
+Sitemap: https://plutoresource.net/sitemap.xml
